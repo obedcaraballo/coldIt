@@ -158,7 +158,7 @@ public class IdUserController extends HttpServlet {
             out.println("<body>");
             out.println("<h1>no se encuentra registrado en la base de datos </h1>");
             out.println("<form action=\"RegistrarEquipo.jsp\" method=\"POST\">");
-            out.println("<input type=\"submit\" value=\"Registrar Equipo\" /></form>");
+            out.println("<input type=\"submit\" value=\"Registrar Usuario\" /></form>");
             out.println("</body>");
             out.println("</html>");
                  
