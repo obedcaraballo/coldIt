@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/web/BuscarProducto.jsp</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/src/java/com/persistencia/MpUsuario.java</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/src/java/com/persistencia/MpProducto.java</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/src/java/com/controller/RegistroUsuarioController.java</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/src/java/com/entidades/Producto.java</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/web/CrudProducto/ActualizarProducto.jsp</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/web/Factura.jsp</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/web/RegistrarProducto.jsp</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/web/CrudProducto/ConfirmarActualizarProducto.jsp</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/src/java/com/controller/IdProductoController.java</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/src/java/com/controller/RegistroFacturaController.java</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/src/java/com/controller/RegistroProductoController.java</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/web/Factura.js</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/web/CrudProducto/EliminarProducto.jsp</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/src/java/com/persistencia/MpFactura.java</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/src/java/com/entidades/Factura.java</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/web/RegistrarUsuario.jsp</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/src/java/com/controller/IdUserController.java</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/web/BuscarUsuario.jsp</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/src/java/com/persistencia/ManejadorBaseDatos.java</file>
+            <file>file:/C:/Users/mipc/Documents/NetBeansProjects/ColdIt/web/CalcularValorFactura.jsp</file>
+        </group>
+    </open-files>
+</project-private>
