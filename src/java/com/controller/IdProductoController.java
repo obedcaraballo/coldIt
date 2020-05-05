@@ -160,7 +160,7 @@ public class IdProductoController extends HttpServlet {
             out.println("<body>");
             out.println("<h1> se encuentra registrado en la base de datos </h1>");
             out.println("<form action=\"RegistrarProducto.jsp\" method=\"POST\">");
-            out.println("<input type=\"submit\" value=\"Registrar Equipo\" /></form>");
+            out.println("<input type=\"submit\" value=\"Registrar Producto\" /></form>");
             out.println("</body>");
             out.println("</html>");
                  
